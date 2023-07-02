@@ -1,5 +1,5 @@
 IP: 84.201.176.157;
-name_taski:  (https://grishayakubin.ddns.net);
-name_kittygram: (https://mylittlekitty.sytes.net);
+name_taski: https://grishayakubin.ddns.net;
+name_kittygram: https://mylittlekitty.sytes.net;
 login: admin;
 password: admin;
